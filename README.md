@@ -6,4 +6,5 @@ The data values were written sequentially into the memory array and read sequent
 link to execution -
 https://www.edaplayground.com/x/dKQD
 
+Architecture -
 ![FIFO Architecture](https://github.com/sid-anand98/Synchronous-FIFO-in-SystemVerilog/assets/136684632/a4aa7a1b-3c50-40bc-a33d-ecf485297fda)
